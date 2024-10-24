@@ -1,0 +1,1 @@
+Ferramenta projetada para analisar a estrutura de componentes de projetos React hospedados em repositórios do GitHub. O principal objetivo da  é fornecer uma visão clara da hierarquia e dos relacionamentos entre os componentes dentro de um projeto React.
